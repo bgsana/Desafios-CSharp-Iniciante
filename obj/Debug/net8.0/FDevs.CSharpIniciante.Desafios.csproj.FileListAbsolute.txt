@@ -1,0 +1,14 @@
+C:\Users\Usuario\Desktop\2025\curso-c#\FDves.CSharpIniciante.Desafios\FDves.CSharpIniciante.Desafios\obj\Debug\net8.0\FDevs.CSharpIniciante.Desafios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\2025\curso-c#\FDves.CSharpIniciante.Desafios\FDves.CSharpIniciante.Desafios\obj\Debug\net8.0\FDevs.CSharpIniciante.Desafios.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\2025\curso-c#\FDves.CSharpIniciante.Desafios\FDves.CSharpIniciante.Desafios\obj\Debug\net8.0\FDevs.CSharpIniciante.Desafios.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\2025\curso-c#\FDves.CSharpIniciante.Desafios\FDves.CSharpIniciante.Desafios\obj\Debug\net8.0\FDevs.CSharpIniciante.Desafios.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\2025\curso-c#\FDves.CSharpIniciante.Desafios\FDves.CSharpIniciante.Desafios\bin\Debug\net8.0\FDevs.CSharpIniciante.Desafios.exe
+C:\Users\Usuario\Desktop\2025\curso-c#\FDves.CSharpIniciante.Desafios\FDves.CSharpIniciante.Desafios\bin\Debug\net8.0\FDevs.CSharpIniciante.Desafios.deps.json
+C:\Users\Usuario\Desktop\2025\curso-c#\FDves.CSharpIniciante.Desafios\FDves.CSharpIniciante.Desafios\bin\Debug\net8.0\FDevs.CSharpIniciante.Desafios.runtimeconfig.json
+C:\Users\Usuario\Desktop\2025\curso-c#\FDves.CSharpIniciante.Desafios\FDves.CSharpIniciante.Desafios\bin\Debug\net8.0\FDevs.CSharpIniciante.Desafios.dll
+C:\Users\Usuario\Desktop\2025\curso-c#\FDves.CSharpIniciante.Desafios\FDves.CSharpIniciante.Desafios\bin\Debug\net8.0\FDevs.CSharpIniciante.Desafios.pdb
+C:\Users\Usuario\Desktop\2025\curso-c#\FDves.CSharpIniciante.Desafios\FDves.CSharpIniciante.Desafios\obj\Debug\net8.0\FDevs.CSharpIniciante.Desafios.dll
+C:\Users\Usuario\Desktop\2025\curso-c#\FDves.CSharpIniciante.Desafios\FDves.CSharpIniciante.Desafios\obj\Debug\net8.0\refint\FDevs.CSharpIniciante.Desafios.dll
+C:\Users\Usuario\Desktop\2025\curso-c#\FDves.CSharpIniciante.Desafios\FDves.CSharpIniciante.Desafios\obj\Debug\net8.0\FDevs.CSharpIniciante.Desafios.pdb
+C:\Users\Usuario\Desktop\2025\curso-c#\FDves.CSharpIniciante.Desafios\FDves.CSharpIniciante.Desafios\obj\Debug\net8.0\FDevs.CSharpIniciante.Desafios.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\2025\curso-c#\FDves.CSharpIniciante.Desafios\FDves.CSharpIniciante.Desafios\obj\Debug\net8.0\ref\FDevs.CSharpIniciante.Desafios.dll
